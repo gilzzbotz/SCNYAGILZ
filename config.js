@@ -46,7 +46,7 @@ global.sig = 'https://instagram.com/rangga_botz'
 global.sgh = 'https://github.com/XiaomiBOT'
 global.sgc = 'https://chat.whatsapp.com/DcIcuTKGWSm1pxBVc9pgvR'
 global.stg = 'https://t.me/XiaomiBOT'
-global.snh = 'wa.me/62857791505012'
+global.snh = 'wa.me/62857791505014'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085779150501'
@@ -58,17 +58,17 @@ global.psaweria = 'https://saweria.co/rangga123gg'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62857791505013'
-global.nomorown = '62857791505012'
+global.nomorown = '62857791505014'
 global.namebot = 'XiaomiBOT'
 global.nameown = 'HanzOfcⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012', 'Owner', true]
+  ['62857791505014'],
+  ['62857791505014'],
+  ['62857791505014'],
+  ['62857791505014', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
